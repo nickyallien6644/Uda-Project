@@ -1,5 +1,4 @@
 setup-project:
-	echo ":::: Setup Project ::::"
 	# Create a python virtualenv & activate it
 	python3 -m venv ~/.devops
 	# source ~/.devops/bin/activate
