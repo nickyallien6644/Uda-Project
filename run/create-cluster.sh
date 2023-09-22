@@ -1,6 +1,6 @@
 #! /bin/bash
 
-REGION="us-west-2"
+REGION="us-east-1"
 CLUSTER=capstone-v1
 
 echo ":::: START CREATE CLUSTER ::::"
